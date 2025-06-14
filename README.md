@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Manju!
 
-<!--
-**K-Manju/K-Manju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an MCA graduate with a passion for front-end development  
+💻 I build responsive, user-friendly web interfaces using the latest technologies  
+📈 Currently learning: Data Structures & Algorithms (DSA)
 
-Here are some ideas to get you started:
+🌐 Tech Stack:  
+- HTML | CSS | JavaScript  
+- React | Bootstrap  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects I'm working on:
+- 📸 Instagram Clone (React)
+
+🎯 Goals:
+- Become a skilled front-end developer  
+- Keep learning and improving every day  
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/manju-k-9a4a28318/) 
+
+> "Success is the sum of small efforts, repeated day in and day out." – Robert Collier
