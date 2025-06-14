@@ -17,5 +17,6 @@
 
 📫 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/manju-k-9a4a28318/) 
+arulmanju6383@gmail.com
 
 > "Success is the sum of small efforts, repeated day in and day out." – Robert Collier
