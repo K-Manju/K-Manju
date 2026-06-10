@@ -1,38 +1,48 @@
-Hi 👋 I'm Manju  
+# Hi 👋 I'm Manju
 
-Frontend Developer (Fresher) | React | JavaScript | HTML | CSS  
+Java Backend Developer (Fresher) | Spring Boot | REST API | MySQL
 
-🎓 Master of Computer Applications (MCA) graduate with hands-on experience in building responsive and user-friendly web applications.  
-💻 Passionate about frontend development and continuously improving my skills through projects and practice.  
-📚 Currently learning JavaScript fundamentals, React, and basic Data Structures & Algorithms.
+🎓 Master of Computer Applications (MCA) graduate with hands-on 
+experience in building backend REST APIs using Java and Spring Boot.  
+💻 Passionate about backend development and continuously improving 
+my skills through real-world projects and practice.  
+📚 Currently strengthening Java, Spring Boot, and Data Structures & Algorithms.
 
 ---
 
 ### 🛠️ Tech Stack
-- HTML5, CSS3, JavaScript (ES6+)
-- React, Bootstrap
-- Git, GitHub
+
+- **Languages:** Java, HTML, CSS, JavaScript
+- **Frameworks:** Spring Boot, Spring Security, Spring Data JPA
+- **Databases:** MySQL, H2
+- **Tools:** Git, GitHub, Postman, Maven, IntelliJ IDEA
 
 ---
 
 ### 🚀 Projects
-- 🎬 **Movie Explorer App** – React app using OMDb API with favorites feature  
-- 🧑‍💻 **Portfolio Website** – Responsive personal website built with HTML, CSS, JavaScript  
-- ✅ **Task Manager App** – JavaScript-based task manager with localStorage  
+
+- 🛒 **ShopNest** – E-Commerce REST API with JWT auth, 
+role-based access, MySQL, Swagger
+- 👥 **StaffHub** – Employee Management System with pagination, 
+search, custom JPQL queries
+- 📚 **BookWise** – Library Management API with cron job 
+fine calculation and transaction management
 
 ---
 
 ### 🎯 Career Goals
-- Secure a Junior Frontend Developer / Web Developer role  
-- Build scalable, clean, and user-friendly web interfaces  
-- Learn advanced React and frontend best practices  
+
+- Secure a Java Backend Developer role
+- Build scalable and clean REST APIs
+- Grow as a professional backend developer
 
 ---
 
 ### 📫 Connect with Me
-- 🔗 LinkedIn: https://linkedin.com/in/manju021  
-- 📧 Email: arulmanju6383@gmail.com  
+
+- 🔗 LinkedIn: https://linkedin.com/in/manju021
+- 📧 Email: arulmanju6383@gmail.com
 
 ---
 
-_"Success is the sum of small efforts, repeated day in and day out." – Robert Collier_
+*"Success is the sum of small efforts, repeated day in and day out."*
