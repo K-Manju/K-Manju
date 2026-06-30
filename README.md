@@ -1,8 +1,8 @@
-# Hi 👋 I'm Manju
+9# Hi 👋 I'm Manju
 
-Java Backend Developer (Fresher) | Spring Boot | REST API | MySQL
+Java Backend Developer | Spring Boot | REST API | MySQL
 
-🎓 Master of Computer Applications (MCA) graduate with hands-on 
+🎓 Master of Computer Applications (MCA) graduate with
 experience in building backend REST APIs using Java and Spring Boot.  
 💻 Passionate about backend development and continuously improving 
 my skills through real-world projects and practice.  
@@ -40,7 +40,6 @@ fine calculation and transaction management
 
 ### 📫 Connect with Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/manju021
 - 📧 Email: arulmanju6383@gmail.com
 
 ---
