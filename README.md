@@ -1,4 +1,4 @@
-9# Hi 👋 I'm Manju
+Hi 👋 I'm Manju
 
 Java Backend Developer | Spring Boot | REST API | MySQL
 
