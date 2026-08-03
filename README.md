@@ -40,7 +40,7 @@ fine calculation and transaction management
 
 ### 📫 Connect with Me
 
-- 📧 Email: arulmanju6383@gmail.com
+- 📧 Email: manju07021@gmail.com
 
 ---
 
